@@ -1,1 +1,26 @@
-  
+
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Lifehouse
+-------------------------------------
+
+Venue Name: Ridgefield Playhouse
+Venue Location: Ridgefield, CT
+Date of Event: 02/14/2020
+-------------------------------------
+
+Venue Name: Ridgefield Playhouse
+Venue Location: Ridgefield, CT
+Date of Event: 02/14/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Lifehouse
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Lifehouse

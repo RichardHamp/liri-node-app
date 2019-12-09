@@ -4,6 +4,7 @@ var axios = require("axios");
 var moment = require("moment");
 var keys = require("./keys.js");
 var multipleWordInput=[];
+const fs = require('fs');
 // var spotify=new spotify(keys.spotify);
 
 switch(process.argv[2]) {
@@ -13,6 +14,12 @@ switch(process.argv[2]) {
     case "do-what-it-says": console.log("Do something here"); break;
     default: console.log("Sorry, that expression isn't understood.");
 }
+
+//outputs data to log.txt
+function output(i){
+    fs.appendFile('log.txt', (i), function (err) {
+    if (err) throw err;
+  });}
 
 // CONCERT-THIS
 function concert() {
@@ -36,6 +43,9 @@ for (var i = 3; i<process.argv.length; i++) {
         "\nVenue Location: " + response.data[i].venue.city +", "+ response.data[i].venue.region +
         "\nDate of Event: " + moment(dateArr[0], "YYYY-MM-DD").format("MM/DD/YYYY");
         console.log(results);
+        var func="\n\n\n-------------------------------------\nCommand: concert-this\nBand Searched: "+response.data[i].artist.name
+        output(func);
+        output(results);
         }
         console.log("  ");
         console.log("********************************");
@@ -68,6 +78,9 @@ function movies() {
         "\nLanguage: " + movieData.Language +
         "\nPlot: " + movieData.Plot +
         "\nActors: " + movieData.Actors;
+        var func="\n\n\n-------------------------------------\nCommand: movie-this\nTitle Searched: "+movieData.Title;
+        output(func);
+        output(results);
         console.log(results);
         console.log("  ");
         console.log("********************************");
@@ -75,4 +88,10 @@ function movies() {
         })
         
     }
+
+
+
+//SPOTIFY-THIS
  
+//DO-WHAT-IT-SAYS
+
