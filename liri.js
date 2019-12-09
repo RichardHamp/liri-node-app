@@ -10,16 +10,16 @@ var multipleWordBand=[];
 // }
 // var referenceBand = reference.join("");
 
-switch(expr) {
-    case "concert-this":  concert(); break;
-    case "spotify-this-song": console.log("Spotify something here"); break;
-    case "movie-this": console.log("Movie something here"); break;
-    case "do-what-it-says": console.log("Do something here"); break;
-    default: console.log("Sorry, that expression isn't understood."); break;
-}
+// switch(expr) {
+//     case "concert-this":  concert(); break;
+//     case "spotify-this-song": console.log("Spotify something here"); break;
+//     case "movie-this": console.log("Movie something here"); break;
+//     case "do-what-it-says": console.log("Do something here"); break;
+//     default: console.log("Sorry, that expression isn't understood."); break;
+// }
 
 
-
+//function concert
 console.log(process.argv.length)
 
     for (var i = 2; i<process.argv.length; i++) {
@@ -28,11 +28,12 @@ console.log(process.argv.length)
         console.log(j);
     }
     console.log(multipleWordBand);
-    band = multipleWordBand.join("");
+    band = multipleWordBand.join("%20");
     console.log(band);
 
-function concert(band) {
+function concert() {
     var concerts = "https://rest.bandsintown.com/artists/" +band+ "/events?app_id=codingbootcamp";
+    console.log(concerts)
     axios.get(concerts)
     .then(
         function (response) {
