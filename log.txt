@@ -24,3 +24,1553 @@ Band Searched: Lifehouse
 -------------------------------------
 Command: concert-this
 Band Searched: Lifehouse
+
+
+-------------------------------------
+Command: movie-this
+Title Searched: Star Wars: Episode IV - A New Hope
+-------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDB Rating: 8.6
+Rotten Tomatoes Rating: 93%
+Country Where Produced: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Clint Black
+-------------------------------------
+
+Venue Name: The Meadows Events & Conference Center
+Venue Location: Altoona, IA
+Date of Event: 03/06/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: clint black
+-------------------------------------
+
+Venue Name: The Meadows Events & Conference Center
+Venue Location: Altoona, IA
+Date of Event: 03/06/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: clint black
+-------------------------------------
+
+Venue Name: Ameristar Casino Hotel Kansas City
+Venue Location: Kansas City, KS
+Date of Event: 03/14/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: clint black
+-------------------------------------
+
+Venue Name: Choctaw Casino & Resort
+Venue Location: Durant, OK
+Date of Event: 03/28/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: clint black
+-------------------------------------
+
+Venue Name: Ryman Auditorium
+Venue Location: Nashville, TN
+Date of Event: 05/17/2020
+-------------------------------------
+
+Venue Name: Country Thunder Saskatchewan
+Venue Location: Craven, 
+Date of Event: 07/09/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: clint black
+
+
+-------------------------------------
+Command: movie-this
+Title Searched: Star Wars: Episode IV - A New Hope
+-------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDB Rating: 8.6
+Rotten Tomatoes Rating: 93%
+Country Where Produced: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: lifehouse
+-------------------------------------
+
+Venue Name: Ridgefield Playhouse
+Venue Location: Ridgefield, CT
+Date of Event: 02/14/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: lifehouse
+-------------------------------------
+
+Venue Name: Ridgefield Playhouse
+Venue Location: Ridgefield, CT
+Date of Event: 02/14/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Beacon Theatre
+Venue Location: New York, NY
+Date of Event: 12/09/2019
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 05/23/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 05/22/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 05/30/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 05/29/2020
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 06/03/2020
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 05/27/2020
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 06/05/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 06/06/2020
+-------------------------------------
+
+Venue Name: Lanxess Arena
+Venue Location: Köln, 
+Date of Event: 06/15/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Messehalle Erfurt
+Venue Location: Erfurt, 
+Date of Event: 06/16/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Arènes de Nîmes
+Venue Location: Nimes, 
+Date of Event: 06/18/2020
+-------------------------------------
+
+Venue Name: Trädgårdsföreningen
+Venue Location: Gothenburg, 
+Date of Event: 06/21/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Lunden, Horsens, FriluftsScenen
+Venue Location: Horsens, 
+Date of Event: 06/23/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Stadtpark Freilichtbühne
+Venue Location: Hamburg, 
+Date of Event: 06/20/2020
+-------------------------------------
+
+Venue Name: Polo Club Lyon Plaine de l'Ain
+Venue Location: Saint-vulbas, 
+Date of Event: 06/25/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Wiley Sportpark
+Venue Location: Neu-ulm, 
+Date of Event: 06/27/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Gerry Weber Stadion
+Venue Location: Halle, 
+Date of Event: 06/28/2020
+-------------------------------------
+
+Venue Name: Zitadelle Spandau
+Venue Location: Berlin, 
+Date of Event: 06/29/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: CHATEAU DE CHAMBORD
+Venue Location: Chambord, 
+Date of Event: 07/01/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Rockhall Luxembourg
+Venue Location: Esch-sur-alzette, 
+Date of Event: 07/02/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: La citadelle d’Arras
+Venue Location: Arras, 
+Date of Event: 07/03/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Zámecký park Slavkov u Brna
+Venue Location: Slavkov U Brna, 
+Date of Event: 07/05/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Tollwood Festival, Musik Arena
+Venue Location: Munchen, 
+Date of Event: 07/06/2020
+-------------------------------------
+
+Venue Name: Kunst!Rasen Bonn/Gronau
+Venue Location: Bonn, 
+Date of Event: 07/09/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Residenzplatz Würzburg
+Venue Location: Wurzburg, 
+Date of Event: 07/11/2020
+-------------------------------------
+
+Venue Name: AMPHITHEATRE PLEIN AIR - ZENITH DE NANCY
+Venue Location: Nancy, 
+Date of Event: 07/13/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: THEATRE DE VERDURE
+Venue Location: Saint-malo-du-bois, 
+Date of Event: 07/16/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Schlossplatz
+Venue Location: Stuttgart, 
+Date of Event: 07/19/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Schlosspark Tüßling
+Venue Location: Tussling, 
+Date of Event: 07/20/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: PGE Narodowy
+Venue Location: Warsaw, 
+Date of Event: 07/25/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Royal Hideaway Sancti Petri
+Venue Location: Chiclana De La Frontera, 
+Date of Event: 07/30/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/15/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/19/2020
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/21/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/22/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/26/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/28/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/29/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 09/02/2020
+
+
+-------------------------------------
+Command: movie-this
+Title Searched: Star Wars: Episode IV - A New Hope
+-------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDB Rating: 8.6
+Rotten Tomatoes Rating: 93%
+Country Where Produced: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+
+
+-------------------------------------
+Command: movie-this
+Title Searched: Mr. Nobody
+-------------------------------------
+
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country Where Produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: lifehouse
+-------------------------------------
+
+Venue Name: Ridgefield Playhouse
+Venue Location: Ridgefield, CT
+Date of Event: 02/14/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: lifehouse
+-------------------------------------
+
+Venue Name: Ridgefield Playhouse
+Venue Location: Ridgefield, CT
+Date of Event: 02/14/2020
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 05/22/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 05/27/2020
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 05/23/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 06/03/2020
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 05/30/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 06/05/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Lanxess Arena
+Venue Location: Köln, 
+Date of Event: 06/15/2020
+-------------------------------------
+
+Venue Name: Messehalle Erfurt
+Venue Location: Erfurt, 
+Date of Event: 06/16/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 05/29/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 06/06/2020
+-------------------------------------
+
+Venue Name: Stadtpark Freilichtbühne
+Venue Location: Hamburg, 
+Date of Event: 06/20/2020
+-------------------------------------
+
+Venue Name: Trädgårdsföreningen
+Venue Location: Gothenburg, 
+Date of Event: 06/21/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Lunden, Horsens, FriluftsScenen
+Venue Location: Horsens, 
+Date of Event: 06/23/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Polo Club Lyon Plaine de l'Ain
+Venue Location: Saint-vulbas, 
+Date of Event: 06/25/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Arènes de Nîmes
+Venue Location: Nimes, 
+Date of Event: 06/18/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Wiley Sportpark
+Venue Location: Neu-ulm, 
+Date of Event: 06/27/2020
+-------------------------------------
+
+Venue Name: Gerry Weber Stadion
+Venue Location: Halle, 
+Date of Event: 06/28/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Zitadelle Spandau
+Venue Location: Berlin, 
+Date of Event: 06/29/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: CHATEAU DE CHAMBORD
+Venue Location: Chambord, 
+Date of Event: 07/01/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Rockhall Luxembourg
+Venue Location: Esch-sur-alzette, 
+Date of Event: 07/02/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: La citadelle d’Arras
+Venue Location: Arras, 
+Date of Event: 07/03/2020
+-------------------------------------
+
+Venue Name: Zámecký park Slavkov u Brna
+Venue Location: Slavkov U Brna, 
+Date of Event: 07/05/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Tollwood Festival, Musik Arena
+Venue Location: Munchen, 
+Date of Event: 07/06/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Kunst!Rasen Bonn/Gronau
+Venue Location: Bonn, 
+Date of Event: 07/09/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Residenzplatz Würzburg
+Venue Location: Wurzburg, 
+Date of Event: 07/11/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: AMPHITHEATRE PLEIN AIR - ZENITH DE NANCY
+Venue Location: Nancy, 
+Date of Event: 07/13/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: THEATRE DE VERDURE
+Venue Location: Saint-malo-du-bois, 
+Date of Event: 07/16/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Schlossplatz
+Venue Location: Stuttgart, 
+Date of Event: 07/19/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Schlosspark Tüßling
+Venue Location: Tussling, 
+Date of Event: 07/20/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: PGE Narodowy
+Venue Location: Warsaw, 
+Date of Event: 07/25/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Royal Hideaway Sancti Petri
+Venue Location: Chiclana De La Frontera, 
+Date of Event: 07/30/2020
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/19/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/15/2020
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/22/2020
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/21/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/26/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/28/2020
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/29/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 09/02/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 05/22/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 05/23/2020
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 05/27/2020
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 05/29/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 05/30/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 06/05/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 06/06/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Lanxess Arena
+Venue Location: Köln, 
+Date of Event: 06/15/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Messehalle Erfurt
+Venue Location: Erfurt, 
+Date of Event: 06/16/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 06/03/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Arènes de Nîmes
+Venue Location: Nimes, 
+Date of Event: 06/18/2020
+-------------------------------------
+
+Venue Name: Stadtpark Freilichtbühne
+Venue Location: Hamburg, 
+Date of Event: 06/20/2020
+-------------------------------------
+
+Venue Name: Trädgårdsföreningen
+Venue Location: Gothenburg, 
+Date of Event: 06/21/2020
+-------------------------------------
+
+Venue Name: Lunden, Horsens, FriluftsScenen
+Venue Location: Horsens, 
+Date of Event: 06/23/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Polo Club Lyon Plaine de l'Ain
+Venue Location: Saint-vulbas, 
+Date of Event: 06/25/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Wiley Sportpark
+Venue Location: Neu-ulm, 
+Date of Event: 06/27/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Gerry Weber Stadion
+Venue Location: Halle, 
+Date of Event: 06/28/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Zitadelle Spandau
+Venue Location: Berlin, 
+Date of Event: 06/29/2020
+-------------------------------------
+
+Venue Name: CHATEAU DE CHAMBORD
+Venue Location: Chambord, 
+Date of Event: 07/01/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Rockhall Luxembourg
+Venue Location: Esch-sur-alzette, 
+Date of Event: 07/02/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: La citadelle d’Arras
+Venue Location: Arras, 
+Date of Event: 07/03/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Zámecký park Slavkov u Brna
+Venue Location: Slavkov U Brna, 
+Date of Event: 07/05/2020
+-------------------------------------
+
+Venue Name: Tollwood Festival, Musik Arena
+Venue Location: Munchen, 
+Date of Event: 07/06/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Kunst!Rasen Bonn/Gronau
+Venue Location: Bonn, 
+Date of Event: 07/09/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Residenzplatz Würzburg
+Venue Location: Wurzburg, 
+Date of Event: 07/11/2020
+-------------------------------------
+
+Venue Name: AMPHITHEATRE PLEIN AIR - ZENITH DE NANCY
+Venue Location: Nancy, 
+Date of Event: 07/13/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: THEATRE DE VERDURE
+Venue Location: Saint-malo-du-bois, 
+Date of Event: 07/16/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Schlossplatz
+Venue Location: Stuttgart, 
+Date of Event: 07/19/2020
+-------------------------------------
+
+Venue Name: Schlosspark Tüßling
+Venue Location: Tussling, 
+Date of Event: 07/20/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: PGE Narodowy
+Venue Location: Warsaw, 
+Date of Event: 07/25/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: Royal Hideaway Sancti Petri
+Venue Location: Chiclana De La Frontera, 
+Date of Event: 07/30/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/19/2020
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/15/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/22/2020
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/21/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/26/2020
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/28/2020
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 08/29/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+-------------------------------------
+
+Venue Name: The Colosseum at Caesars Palace
+Venue Location: Las Vegas, NV
+Date of Event: 09/02/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: sting
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: lifehouse
+-------------------------------------
+
+Venue Name: Ridgefield Playhouse
+Venue Location: Ridgefield, CT
+Date of Event: 02/14/2020
+-------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDB Rating: 8.6
+Rotten Tomatoes Rating: 93%
+Country Where Produced: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+
+
+-------------------------------------
+Command: movie-this
+Title Searched: Star Wars: Episode IV - A New Hope
+
+
+-------------------------------------
+Command: movie-this
+Title Searched: FernGully: The Last Rainforest
+-------------------------------------
+
+Title: FernGully: The Last Rainforest
+Year: 1992
+IMDB Rating: 6.5
+Rotten Tomatoes Rating: 63%
+Country Where Produced: Australia, USA
+Language: English
+Plot: The magical inhabitants of a rainforest fight to save their home, which is threatened by logging and a polluting force of destruction called Hexxus.
+Actors: Tim Curry, Samantha Mathis, Christian Slater, Jonathan Ward
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Taylor Swift
+-------------------------------------
+
+Venue Name: Capital's Jingle Bell Ball
+Venue Location: London, 
+Date of Event: 12/08/2019
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Taylor Swift
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Taylor Swift
+-------------------------------------
+
+Venue Name: Capital One JamFest
+Venue Location: Atlanta, GA
+Date of Event: 04/05/2020
+-------------------------------------
+
+Venue Name: Z100's Jingle Ball Presented by Capital One
+Venue Location: New York, NY
+Date of Event: 12/13/2019
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Taylor Swift
+-------------------------------------
+
+Venue Name: Werchter Boutique
+Venue Location: Rotselaar, 
+Date of Event: 06/20/2020
+-------------------------------------
+
+Venue Name: Waldbühne Berlin
+Venue Location: Berlin, 
+Date of Event: 06/24/2020
+-------------------------------------
+
+Venue Name: Roskilde Festival
+Venue Location: Roskilde, 
+Date of Event: 07/01/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Taylor Swift
+-------------------------------------
+
+Venue Name: Oslo Sommertid
+Venue Location: Oslo, 
+Date of Event: 06/26/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Taylor Swift
+-------------------------------------
+
+Venue Name: Open’er Festival
+Venue Location: Powiat Pucki, 
+Date of Event: 07/03/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Taylor Swift
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Taylor Swift
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Taylor Swift
+-------------------------------------
+
+Venue Name: Festival de Nîmes
+Venue Location: Nimes, 
+Date of Event: 07/05/2020
+-------------------------------------
+
+Venue Name: NOS Alive
+Venue Location: Algés, 
+Date of Event: 07/09/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Taylor Swift
+-------------------------------------
+
+Venue Name: Hyde Park
+Venue Location: London, 
+Date of Event: 07/11/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Taylor Swift
+-------------------------------------
+
+Venue Name: Allianz Parque
+Venue Location: Sao Paulo, 
+Date of Event: 07/18/2020
+-------------------------------------
+
+Venue Name: Allianz Parque
+Venue Location: Sao Paulo, 
+Date of Event: 07/19/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Taylor Swift
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Taylor Swift
+-------------------------------------
+
+Venue Name: Lover Fest West
+Venue Location: Los Angeles, CA
+Date of Event: 07/25/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Taylor Swift
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Taylor Swift
+-------------------------------------
+
+Venue Name: Lover Fest West
+Venue Location: Los Angeles, CA
+Date of Event: 07/26/2020
+-------------------------------------
+
+Venue Name: Lover Fest East
+Venue Location: Foxborough, MA
+Date of Event: 07/31/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Taylor Swift
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: Taylor Swift
+-------------------------------------
+
+Venue Name: Lover Fest East
+Venue Location: Foxborough, MA
+Date of Event: 08/01/2020
