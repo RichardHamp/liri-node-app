@@ -31,13 +31,13 @@ ex: node liri.js concert-this The Wiggles
 
 This command searches the Spotify API for informationa about the song entered, listing up to ten examples for the song searched. It will return the following information in the terminal for each example:
 
-**Artist(s)**
+Artist(s)
 
-**Song's name**
+Song's name
 
-**Preview link from Spotify**
+Preview link from Spotify
 
-**Album containing the song**
+Album containing the song
 
 ```
 ex: node liri.js spotify-this-song Kiss Me
@@ -47,21 +47,21 @@ ex: node liri.js spotify-this-song Kiss Me
 
 When a user inputs a movie title after the "movie-this" command, LIRI will output the following movie information to the terminal:
 
-**Title**
+Title
 
-**Year**
+Year
 
-**IMDB Rating**
+IMDB Rating
 
-**Rotten Tomatoes Rating**
+Rotten Tomatoes Rating
 
-**Country where the movie was produced**
+Country where the movie was produced
 
-**Language**
+Language
 
-**Plot**
+Plot
 
-**List of Actors**
+List of Actors
 
 ```
 ex: node liri.js movie-this Zardoz
