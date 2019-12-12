@@ -29,7 +29,7 @@ ex: node liri.js concert-this The Wiggles
 
 ### spotify-this-song:
 
-This command searches the Spotify API for informationa about the song entered. It will return the following information in the terminal:
+This command searches the Spotify API for informationa about the song entered, listing up to ten examples for the song searched. It will return the following information in the terminal for each example:
 
 **Artist(s)**
 
@@ -69,9 +69,12 @@ ex: node liri.js movie-this Zardoz
 
 ### do-what-it-says:
 
-LIRI will use the text from “random.txt” and call one of LIRI’s commands. It should run Spotify-this-song for “I want it That way”.
+LIRI will use the text from “random.txt” in order to call LIRI’s commands. Currently, random.txt is formatted to call spotify-this-song with a second parameter of “I Want it That Way”.
+```
+ex: node liri.js do-what-it-says
+```
 
-Technologies used:
+### Technologies used:
 - OMDB API
 - Spotify API
 - Bands In Town API
@@ -79,6 +82,4 @@ Technologies used:
 - NPM Packages
 - Javascript
 
-```
-ex: node liri.js do-what-it-says
-```
+
