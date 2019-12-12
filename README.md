@@ -17,11 +17,9 @@ parameter2 depends on parameter1 and will be futher explained with an example un
 
 This command searches for upcoming concerts featuring the artist entered using Bands in Town API. It renders the following information about each event:
 
-Name of venue
-
-Venue location (city and state)
-
-Date of event
+- Name of venue
+- Venue location (city and state)
+- Date of event
 
 ```
 ex: node liri.js concert-this The Wiggles
@@ -31,13 +29,10 @@ ex: node liri.js concert-this The Wiggles
 
 This command searches the Spotify API for informationa about the song entered, listing up to ten examples for the song searched. It will return the following information in the terminal for each example:
 
-Artist(s)
-
-Song's name
-
-Preview link from Spotify
-
-Album containing the song
+- Artist(s)
+- Song's name
+- Preview link from Spotify
+- Album containing the song
 
 ```
 ex: node liri.js spotify-this-song Kiss Me
@@ -47,21 +42,14 @@ ex: node liri.js spotify-this-song Kiss Me
 
 When a user inputs a movie title after the "movie-this" command, LIRI will output the following movie information to the terminal:
 
-Title
-
-Year
-
-IMDB Rating
-
-Rotten Tomatoes Rating
-
-Country where the movie was produced
-
-Language
-
-Plot
-
-List of Actors
+- Title
+- Year
+- IMDB Rating
+- Rotten Tomatoes Rating
+- Country where the movie was produced
+- Language
+- Plot
+ -List of Actors
 
 ```
 ex: node liri.js movie-this Zardoz
