@@ -1574,3 +1574,53 @@ Band Searched: Taylor Swift
 Venue Name: Lover Fest East
 Venue Location: Foxborough, MA
 Date of Event: 08/01/2020
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: lifehouse
+-------------------------------------
+
+Venue Name: Ridgefield Playhouse
+Venue Location: Ridgefield, CT
+Date of Event: 02/14/2020
+
+
+-------------------------------------
+Command: movie-this
+Title Searched: Star Wars: Episode IV - A New Hope
+-------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDB Rating: 8.6
+Rotten Tomatoes Rating: 93%
+Country Where Produced: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+-------------------------------------
+
+Title: Star Wars: Episode IV - A New Hope
+Year: 1977
+IMDB Rating: 8.6
+Rotten Tomatoes Rating: 93%
+Country Where Produced: USA
+Language: English
+Plot: Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+
+
+-------------------------------------
+Command: movie-this
+Title Searched: Star Wars: Episode IV - A New Hope
+
+
+-------------------------------------
+Command: concert-this
+Band Searched: lifehouse
+-------------------------------------
+
+Venue Name: Ridgefield Playhouse
+Venue Location: Ridgefield, CT
+Date of Event: 02/14/2020
