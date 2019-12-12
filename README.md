@@ -17,9 +17,11 @@ parameter2 depends on parameter1 and will be futher explained with an example un
 
 This command searches for upcoming concerts featuring the artist entered using Bands in Town API. It renders the following information about each event:
 
-**Name of venue
-**Venue location (city and state)
-**Date of event
+Name of venue
+
+Venue location (city and state)
+
+Date of event
 
 ```
 ex: node liri.js concert-this The Wiggles
