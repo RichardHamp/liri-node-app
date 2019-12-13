@@ -1,6 +1,8 @@
 # Liri: Node App
 L.I.R.I. (Language Interpretation and Recognition Interface) is a node-based app that takes in user-inputed parameters--movies, musical artists, and songs--on the command line and gives back data based on those parameters.
-github link: https://github.com/fozzie77/liri-node-app/
+
+github link: https://github.com/RichardHamp/liri-node-app
+
 video of app use: https://youtu.be/IAe6pi8Y1Eo
 
 ## Using the App:
